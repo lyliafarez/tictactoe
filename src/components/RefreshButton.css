@@ -1,0 +1,10 @@
+.refresh-btn{
+    border:none;
+    border-radius: 0.5rem;
+    background: rgb(96, 226, 146);
+    color:aliceblue;
+    font-size: 2rem;
+    padding: 0.5rem  1rem;
+    margin: 2rem auto;
+    display: block;
+}
